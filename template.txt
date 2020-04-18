@@ -1,0 +1,4 @@
+$prefix:{ {"total":71,"pageCount":8,"pageSize":10,"pageNum":1,"content": }
+*$loop:10000*
+[{"value0": $format:str*,"value1": $format:int*,"value2":$format:uuid*}]
+$suffix:{ } }*
